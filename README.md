@@ -22,7 +22,7 @@ You can install these modules by running the following command in your terminal:
 ## Usage
 To generate wallets, run the script using the following command:
 
-1. node app.js
+- node app.js
 
 The script will prompt you for the number of wallets you want to generate. Enter the desired number and press enter. The script will then generate the specified number of wallets and save them to a file called generated.txt in the project directory.
 
