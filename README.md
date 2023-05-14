@@ -5,6 +5,18 @@ To use this script, you will need to have Node.js installed on your system. Once
 
 1. npm install
 
+### Prerequisites
+
+This script requires the following Node.js modules:
+- `coinkey`
+- `coininfo`
+- `fs`
+- `crypto`
+- `readline`
+
+You can install these modules by running the following command in your terminal:
+1. npm install coinkey coininfo fs crypto readline
+
 ## Usage
 To generate wallets, run the script using the following command:
 
