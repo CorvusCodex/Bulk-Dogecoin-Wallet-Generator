@@ -5,7 +5,7 @@ Node.js script that generates a specified number of Dogecoin addresses and priva
 ## Installation
 To use this script, you will need to have Node.js installed on your system. Once you have Node.js installed, clone this repository and navigate to the project directory. Then, run the following command to install the required dependencies:
 
-1. npm install
+``` npm install ```
 
 ### Prerequisites
 
